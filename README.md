@@ -1,0 +1,2 @@
+# Trading-strategy-with-candelstick-pattern-using-Machine-Learning
+AI-Driven Trading System using Ridge Regression for 3-day recursive price forecasting. It features VROC (Volume Rate of Change) to filter market noise and identifying false signals. Built with Python &amp; Streamlit, it delivers real-time interactive charts, currency conversion, and ~57% directional accuracy for smarter, data-driven decisions.
