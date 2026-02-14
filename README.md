@@ -122,6 +122,6 @@ Follow these steps to run the project locally.
 ---
 
 ## 🤝 Contact
-**Name:** [Your Name]
-**Email:** [Your Email]
+**Name:** [Bhukya Ram Ganesh]
+**Email:** [bhukyaramganesh7897@gmail.com]
 **Project Link:** [https://github.com/your-username/AI-Trading-System](https://github.com/your-username/AI-Trading-System)
